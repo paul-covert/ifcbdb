@@ -1,5 +1,5 @@
 django==4.2.11
-gunicorn==21.2.0
+gunicorn==22.0.0
 psycopg2-binary==2.9.9
 numba==0.59.1
 celery==5.3.6
@@ -14,4 +14,4 @@ rectpack==0.2.2
 scikit-image==0.22.0
 pysmb==1.2.9.1
 pyyaml==6.0.1
-git+https://github.com/joefutrelle/pyifcb@v1.0.0
+git+https://github.com/joefutrelle/pyifcb@v1.1.0
